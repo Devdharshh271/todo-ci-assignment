@@ -1,0 +1,12 @@
+{
+  "name": "todo-ci-demo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('no tests')\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
